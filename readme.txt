@@ -1,13 +1,13 @@
+
+
+# Clone the repository
 $ git clone https://github.com/Moto-sudo/Auto-Tor.git
 
-$ cd AUTO-TOR
+# Navigate into the cloned directory
+$ cd Auto-Tor
 
+# Open Tor in the first new tab
+$ tor -f ~/.tor/torrc
+
+# Open autt.py in the second new tab
 $ python3 autt.py
-
-$ python3 aut.py
-
-$ tor -f ~/.tor/torrc &
-
-
-
-
