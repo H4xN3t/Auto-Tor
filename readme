@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 $ tor -f ~/.tor/torrc &
 
 # Open autt.py in the second new tab
-$ python3 autt.py
+$ python3 aut.py
 
 
 
@@ -28,18 +28,18 @@ Linux method
 #1. Install Tor
 $ sudo apt install tor
 
-#
+#2. Clone the GitHub Repository
 $ git clone https://github.com/Moto-sudo/Auto-Tor.git
 
-#
+#3. Navigate into the Cloned Directory
 $ cd Auto-Tor
 
-#
+#4. Install Python Requirements
 $ pip install -r requirements.txt
 
-#
+#5. Open Tor in a Background Process
 $ tor -f ~/.tor/torrc &
 
-#
+#6. Run the aut.py Script
 $ python3 aut.py
 
