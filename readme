@@ -1,3 +1,6 @@
+Termux method 
+
+
 # Download the Tor
 $ pkg install tor
 
@@ -15,3 +18,28 @@ $ tor -f ~/.tor/torrc &
 
 # Open autt.py in the second new tab
 $ python3 autt.py
+
+
+
+
+Linux method 
+
+
+#1. Install Tor
+$ sudo apt install tor
+
+#
+$ git clone https://github.com/Moto-sudo/Auto-Tor.git
+
+#
+$ cd Auto-Tor
+
+#
+$ pip install -r requirements.txt
+
+#
+$ tor -f ~/.tor/torrc &
+
+#
+$ python3 aut.py
+
