@@ -16,7 +16,7 @@ $ pip install -r requirements.txt
 #5. Open Tor in a Background Process
 $ tor -f ~/.tor/torrc &
 
-#6. Run the aut.py Script
+#6. Run the aut.py Script in new tab
 $ python3 aut.py
 
 
@@ -40,6 +40,6 @@ $ pip install -r requirements.txt
 #5. Open Tor in a Background Process
 $ tor -f ~/.tor/torrc &
 
-#6. Run the aut.py Script
+#6. Run the aut.py Script in new tab
 $ python3 aut.py
 
