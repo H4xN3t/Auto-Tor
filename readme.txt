@@ -1,5 +1,13 @@
-AUTO-TOR For termux 
+$ git clone https://github.com/Moto-sudo/Auto-Tor.git
 
-You need to Tor $ pkg install tor
+$ cd AUTO-TOR
 
-tor -f ~/.tor/torrc &
+$ python3 autt.py
+
+$ python3 aut.py
+
+$ tor -f ~/.tor/torrc &
+
+
+
+
