@@ -1,22 +1,22 @@
 Termux method 
 
 
-# Download the Tor
+#1. Install Tor
 $ pkg install tor
 
-# Clone the repository
+#2. Clone the GitHub Repository
 $ git clone https://github.com/mahito-hacker/Auto-Tor
 
-# Navigate into the cloned directory
+#3.  Navigate into the cloned directory
 $ cd Auto-Tor
 
-# Install the requirements 
+#4.  Install the requirements 
 $ pip install -r requirements.txt
 
-# Open Tor in the first new tab
+#5. Open Tor in a Background Process
 $ tor -f ~/.tor/torrc &
 
-# Open autt.py in the second new tab
+#6. Run the aut.py Script
 $ python3 aut.py
 
 
