@@ -7,6 +7,9 @@ $ git clone https://github.com/Moto-sudo/Auto-Tor.git
 # Navigate into the cloned directory
 $ cd Auto-Tor
 
+# Install the requirements 
+$ pip install -r requirements.txt
+
 # Open Tor in the first new tab
 $ tor -f ~/.tor/torrc &
 
