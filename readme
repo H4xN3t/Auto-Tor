@@ -29,7 +29,7 @@ Linux method
 $ sudo apt install tor
 
 #2. Clone the GitHub Repository
-$ git clone https://github.com/Moto-sudo/Auto-Tor.git
+$ git clone https://github.com/mahito-hacker/Auto-Tor
 
 #3. Navigate into the Cloned Directory
 $ cd Auto-Tor
