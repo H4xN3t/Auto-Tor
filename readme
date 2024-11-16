@@ -5,9 +5,7 @@ Termux method
 $ pkg install tor
 
 #2. Clone the GitHub Repository
-$ 
-```sh
-git clone https://github.com/H4xN3t/Auto-Tor '''
+$ git clone https://github.com/H4xN3t/Auto-Tor
 
 #3.  Navigate into the cloned directory
 $ cd Auto-Tor
