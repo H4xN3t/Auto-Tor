@@ -1,7 +1,7 @@
 Termux method 
 
 
-#1. Install Tor
+# 1. Install Tor
 $ pkg install tor
 
 #2. Clone the GitHub Repository
